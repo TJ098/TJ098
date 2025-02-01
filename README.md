@@ -1,8 +1,6 @@
 ## Hey, I'm Tim 👋
 #### I am a ~~student~~ professional software engineer for Swift Education!
 
-<!--
-
 
 - 🔭 I’m currently working on building an app integrated with our CRM software
 - 🌱 I’m currently learning back end development
